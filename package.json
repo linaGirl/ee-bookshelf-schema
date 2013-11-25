@@ -1,0 +1,36 @@
+{
+      "name"                        : "ee-bookshelf-schema"
+    , "description"                 : "simple schema definitoion for bookshelf.js"
+    , "version"                     : "0.1.0"
+    , "homepage"                    : "https://github.com/eventEmitter/ee-bookshelf-schema"
+    , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence"                     : "mit"
+    , "os"                          : "linux"
+    , "repository": {
+          "url"                     : "https://github.com/eventEmitter/ee-bookshelf-schema.git"
+        , "type"                    : "git"
+    }
+    , "engines": {
+        "node"                      : ">=v0.10.17"
+    }
+    , "bugs": {
+        "url"                       : "https://github.com/eventEmitter/ee-bookshelf-schema/issues"
+    }
+    , "dependencies": {
+          "ee-class"                : "*"
+        , "ee-event-emitter"        : "*"
+        , "ee-types"                : "*"
+        , "ee-log"                  : "*"
+        , "ee-project"              : "*"
+        , "bookshelf"               : "0.5.7"
+        , "knex"                    : "0.4.13"
+        , "pg"                      : "2.8.3"
+        , "ee-error"                : "*"
+    }
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+    , "keywords"                    : []
+    , "scripts": {
+        "test"                      : "node test.js"
+    }
+}
