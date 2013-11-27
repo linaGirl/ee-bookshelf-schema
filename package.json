@@ -27,10 +27,12 @@
         , "pg"                      : "2.8.3"
         , "ee-error"                : "*"
     }
-    , "devDependencies": {}
+    , "devDependencies": {
+          "mocha"                   : "*"
+    }
     , "optionalDependencies": {}
     , "keywords"                    : []
     , "scripts": {
-        "test"                      : "node test.js"
+        "test"                      : "./node_modules/mocha/bin/mocha --reporter spec"
     }
 }
