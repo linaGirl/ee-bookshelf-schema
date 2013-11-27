@@ -3,3 +3,8 @@ language: node_js
 node_js : 
     - "0.10"
     - "0.11"
+
+env
+    - secure: "Jc0DgEbBaqMb82ctPiwTEgOQBZVzoRrYBIil/X6SxAcokfSdR+USbhucdncs6lGNSGMwRXKKC63GgdKHlXdsq4MY0utMGD4KCGnV0KAuYUj8WkvNOidWNdyM6HqFY4Fu79CHIfnzyMLAP49Ir+8F50/fOJpADpCHd+6Cc+W2Qgo="
+    - secure: "W+pBulKK5useaF9W5xZsNy8HQftvOFoT55w+ZbHUWR6mZLejYidnn2PcVFPq25F7x1UYa9RnZjYGkHDHEvjjCBdb2b1XTh4YuvQNlB7JYLhCZArDi3tFcfj8f8t5MASB3MjC9YXj97j0HWu7EK8lwrf3Pjj+fLQukq70W9GXMQM="
+    - secure: "cDoKG6uraU7AxP4DMgKz3r8IXFJt1Vxsm+rpFp4DfYGM25RlwWsQxMB5VQdLWb5LjoNw8TYJX+zz/eTowmbYp8+vl/VJlpgC9GwhEPUc3fZGlSTYLMK2pNY4Omml5rKxp0+hRXvvS3zO2AOVKRLU9k9eHv1zs+zOfIx8aozsb6Q="
