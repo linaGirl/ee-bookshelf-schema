@@ -6,6 +6,5 @@ node_js :
 
 env:
     global:
-        - secure: GIKVivsTITpn4F3psoSfsifTdyTvFpMdcIARybdUhw8GcDof3Z+25ssqu46vSIIA+hG8GPBoC9Nx6ZQRzS93sbWUKjMbxXvAACd1NL6S1LGSsEiumDzPizhnVaUTdLUcPljwuD0dGvlNeax7aXJPRXLVDixvvgcjvfnzlXo1DA0=
-        - secure: Hng5EilRSl0qE+jyQhCzzVzrFCChAElvznkXXpAEayAd8oF0mQcebtWrrcnf/PLVcZ2IdAqBTuLb0X2VdVkCwvIO+f+SNB25rx13JNX0EL63wFt3+3BhPVT5lIJUYWwePuXyWz3Q6MbHjFYkYw9v/O+zg9jnslFvV5qRGJKD5oQ=
-        - secure: YOV55k6PJeYyB2pCBsX3lq39/8MSscq0dYcFmD24RHacdnAAgJk6kJrvAmxvHYgm6GqrX7MhrDnwKdE+G6mSHqcVrlqYP1WRH63jPLLCfkIujxEBF7/KnaXJbOh5qhCpdac/WC2EQHGu5Wky5z2+fZxXNTkFGpE17hoO0kLikVw=
+        - secure: PREbaHvbBkZok4bkMwCR3VZ5ZvdRCuxqBMvkFiVoAtKDKnMeOpTjvZ1XFulVKI/VzJgeBzdFzdcvVWd+GYMQxwarOUx96kR73dc+C+R40uyT6ly2RLcQvlP4/FzZZkDOTLhnyHiqZ+dJ8jac3rETew1u4/UDaKyKR+tILgd0qyw=
+        - secure: VGdai28MAktO20glP4HYJaVfnyD0MaoXU0Al6wm0el20sC3VCmrAcy0J0z69lhylKowZ3hnxCKgcLXgsfyl7PM9Lvc9/o2Q+v0R6fN5Us7psdXLXT/2CtVssRRrqKznJfOgEHnccy4Du6GWBudJBpr6MbkmV3yBGGH/7WL4lzJQ=
