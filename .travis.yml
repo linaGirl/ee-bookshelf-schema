@@ -6,4 +6,4 @@ node_js :
 
 env:
     global:
-        - secure: Psctb3qUs3iAze4g9RbRts5tcFclGie2PZXu7GpNdY8OfKYbPqrJabvkoDhUGgjwni/hIn7OSZDC8C6EpRBRw1X2k3m5vRIdl3+ptCqXomYewkJui025CDZoudqlQVg/QDEOLooN8d7WgxvFGVFFtE86hw30gS/2cGCqCgLCr5k=
+        - secure: MJZlRz8m6Y10y8mkhKHmpxoFnhOaELMMSTCFCjYlnLfBEWeoZR8b/dBj6nTJoJSnlCefvl6cST9KrR48m0ngnq/7uLRTlRjH8SZvC3nURXWfXfhrdWD8pnTJugkfvZGiPvRnvmZYL5rVRjjkeZ1c1/78fdkNEFO8r87e9CEizN0=
