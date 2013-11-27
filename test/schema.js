@@ -8,7 +8,7 @@
 
 
 
-	log(process.ENV);
+	log(process.env);
 
 
 
@@ -18,10 +18,10 @@
 		it('should emit an «on load» event', function(done){
 			schema = new Schema({
 				  dialect: 	'postgres'
-				, host: 	process.ENV.DB_HOST
-				, port: 	process.ENV.DB_PORT
+				, host: 	process.env.DB_HOST
+				, port: 	process.env.DB_PORT
 				, user: 	'postgres'
-				, password: process.ENV.DB_PASS
+				, password: process.env.DB_PASS
 				, database: 'wpm'
 				, models: 	path.join(__dirname, '../schema')
 			});
