@@ -1,10 +1,11 @@
 language: node_js
 
 node_js : 
-    - "0.10"
-    - "0.11"
+	- "0.10"
+	- "0.11"
 
-env
-    - secure: "Jc0DgEbBaqMb82ctPiwTEgOQBZVzoRrYBIil/X6SxAcokfSdR+USbhucdncs6lGNSGMwRXKKC63GgdKHlXdsq4MY0utMGD4KCGnV0KAuYUj8WkvNOidWNdyM6HqFY4Fu79CHIfnzyMLAP49Ir+8F50/fOJpADpCHd+6Cc+W2Qgo="
-    - secure: "W+pBulKK5useaF9W5xZsNy8HQftvOFoT55w+ZbHUWR6mZLejYidnn2PcVFPq25F7x1UYa9RnZjYGkHDHEvjjCBdb2b1XTh4YuvQNlB7JYLhCZArDi3tFcfj8f8t5MASB3MjC9YXj97j0HWu7EK8lwrf3Pjj+fLQukq70W9GXMQM="
-    - secure: "cDoKG6uraU7AxP4DMgKz3r8IXFJt1Vxsm+rpFp4DfYGM25RlwWsQxMB5VQdLWb5LjoNw8TYJX+zz/eTowmbYp8+vl/VJlpgC9GwhEPUc3fZGlSTYLMK2pNY4Omml5rKxp0+hRXvvS3zO2AOVKRLU9k9eHv1zs+zOfIx8aozsb6Q="
+env:
+	- global:
+		- secure: "GIKVivsTITpn4F3psoSfsifTdyTvFpMdcIARybdUhw8GcDof3Z+25ssqu46vSIIA+hG8GPBoC9Nx6ZQRzS93sbWUKjMbxXvAACd1NL6S1LGSsEiumDzPizhnVaUTdLUcPljwuD0dGvlNeax7aXJPRXLVDixvvgcjvfnzlXo1DA0="
+		- secure: "Hng5EilRSl0qE+jyQhCzzVzrFCChAElvznkXXpAEayAd8oF0mQcebtWrrcnf/PLVcZ2IdAqBTuLb0X2VdVkCwvIO+f+SNB25rx13JNX0EL63wFt3+3BhPVT5lIJUYWwePuXyWz3Q6MbHjFYkYw9v/O+zg9jnslFvV5qRGJKD5oQ="
+		- secure: "RtlrDkFv1YvdYWRR2xhzMAGgtlVNcX/WPgvvpdblzcxKUp/yVZOVyBlVY2sVb70nD4j0a/4HbtsPk/aNo/GzIuIC9OS+2FR/5BDOMWyT+7WTm6GD+oEAwT7hATs/slrY0ja7CuoUKbtUqYeFCE5ph1Ozcy+WujfOZkRX7MtI3zE="

@@ -8,6 +8,8 @@
 
 
 
+	log(process.ENV);
+
 
 
 	describe('The Schema', function(){
