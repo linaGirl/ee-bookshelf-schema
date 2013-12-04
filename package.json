@@ -29,6 +29,7 @@
     }
     , "devDependencies": {
           "mocha"                   : "*"
+        , "ee-travis"               : "*"
     }
     , "optionalDependencies": {}
     , "keywords"                    : []

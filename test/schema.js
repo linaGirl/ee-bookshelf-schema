@@ -4,11 +4,10 @@
 		, log 			= require('ee-log')
 		, path 			= require('path')
 		, assert 		= require('assert')
+		, travis 		= require('ee-travis')
 		, Schema 		= require('../');
 
 
-
-	log(process.env);
 
 
 
@@ -18,11 +17,11 @@
 		it('should emit an «on load» event', function(done){
 			schema = new Schema({
 				  dialect: 	'postgres'
-				, host: 	process.env.DB_HOST
-				, port: 	process.env.DB_PORT
-				, user: 	'postgres'
-				, password: process.env.DB_PASS
-				, database: 'wpm'
+				, host: 	travis.get('DB_HOST')
+				, port: 	travis.get('DB_PORT')
+				, user: 	travis.get('DB_USER')
+				, password: travis.get('DB_PASS')
+				, database: 'testing'
 				, models: 	path.join(__dirname, '../schema')
 			});
 
