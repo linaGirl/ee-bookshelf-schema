@@ -91,3 +91,9 @@ For the detailed usage see the [bookshelf](http://bookshelfjs.org/) & [knex](htt
 
 	// colelctions can be found on the colelction object
 	// schema.collection
+
+
+## CHANGELOG
+
+- 0.1.0: initial release
+- 0.1.1: added tests
