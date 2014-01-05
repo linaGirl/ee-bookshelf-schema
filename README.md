@@ -97,4 +97,5 @@ For the detailed usage see the [bookshelf](http://bookshelfjs.org/) & [knex](htt
 
 - 0.1.0: initial release
 - 0.1.1: added tests
-- 0.1.2: added corerct collection initialization (@huliseerow)
+- 0.1.2: added correct collection initialization (@huliseerow)
+- 0.1.3: added the getDefinition method to the model
