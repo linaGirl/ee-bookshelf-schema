@@ -99,3 +99,4 @@ For the detailed usage see the [bookshelf](http://bookshelfjs.org/) & [knex](htt
 - 0.1.1: added tests
 - 0.1.2: added correct collection initialization (@huliseerow)
 - 0.1.3: added the getDefinition method to the model
+- 0.1.4: collections have now the same name as the correponsing model if not specified other
