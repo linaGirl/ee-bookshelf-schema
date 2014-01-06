@@ -1,7 +1,7 @@
 {
       "name"                        : "ee-bookshelf-schema"
     , "description"                 : "simple schema definitoion for bookshelf.js"
-    , "version"                     : "0.1.8"
+    , "version"                     : "0.1.9"
     , "homepage"                    : "https://github.com/eventEmitter/ee-bookshelf-schema"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "mit"
