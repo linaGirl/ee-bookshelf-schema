@@ -58,6 +58,10 @@
 				}
 				else done(err);	
 			});
+		});	
+
+		it('should return the model definition', function(){
+			assert.equal(JSON.stringify(schema.user.getDefinition()), '{"role":{"type":"belongsToMany","mappingModel":"user_role","ourMappingKey":"id_user","targetMappingKey":"id_role","targetModel":"role","targetKey":"id","key":"id"},"session":{"type":"hasMany","targetModel":"session","targetKey":"id_user","key":"id"}}');
 		});		
 	});
 
