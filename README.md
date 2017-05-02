@@ -1,5 +1,7 @@
 # ee-bookshelf-schema
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-bookshelf-schema.svg)](https://greenkeeper.io/)
+
 **DEPRECATED**: we're now using [ee-orm](https://www.npmjs.org/package/ee-orm) instead of this module & bookshelf. This module will not be maintained anymore.
 
 simple schema definitoion for bookshelf.js
